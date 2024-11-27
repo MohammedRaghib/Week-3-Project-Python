@@ -27,7 +27,7 @@ For this case, the following deliverables should be achieved at bare minimum.
 The following assumptions apply to help gain insights from the data.
 ```
 1) Number of review has a correlation with the number of product purchase. This will help determine the popularity of a particular product.
-2) The product rating does not quantify the actuall customer satisfaction given the disparity in review count. Thus, add one negative and one positive review to better estimate the customer satisfaction from a product **(Product Rating Algorithm)**.
+2) The product rating does not quantify the actual customer satisfaction given the disparity in review count. Thus, add one negative and one positive review to better estimate the customer satisfaction from a product **(Product Rating Algorithm)**.
 ```
 ##### Parting Shot.
 I hope this clearly outlines the project's scope and what is expected from you. The main.py contains starter function to help you navigate through the product scrapper successfully. Code review for this will be done at individual level to help you gain this vast and important skill of the $21^{st}$ century. 
