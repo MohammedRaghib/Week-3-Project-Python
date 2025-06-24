@@ -12,5 +12,5 @@ vi) Product Rating (out of 5).
 ```
 #### Standard Programming Procedures.
 The projects has the requirements listed and it has an enviroment initialised, it requires bs4 to scrape the website and
-request to fetch the url. After fetching it will combine the data to a CSV file, te data will then be reviwed and will show you
+request to fetch the url. After fetching it will combine the data to a CSV file, the data will then be reviwed and will show you
 the best product to sell based on the data gotten.
